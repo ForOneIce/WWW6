@@ -7,7 +7,10 @@ womenweb3women
 
 本次活动由Herstory社区主持
 
-## [代码提交]
+## 项目文件打包提交
+https://tally.so/r/Gx91qj
+
+## [代码提交] 【推荐】
 
 ### 1. 创建你的 HerSolidity-Minihackathon-2026 项目
 
